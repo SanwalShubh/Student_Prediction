@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+xgboost
+# tensorflow # Only if you were actually using the ANN for the final app
+streamlit
